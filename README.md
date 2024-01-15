@@ -14,9 +14,7 @@ This repository provides you with a detailed guide on how to training and build 
 
 - **Pretrained model** provided in ./model folder in this repo 
 
-- **Download yolov5 (old version) from this link:** [yolov5 - google drive](https://drive.google.com/file/d/1g1u7M4NmWDsMGOppHocgBKjbwtDA-uIu/view?usp=sharing)
-
-- Copy yolov5 folder to project folder
+- unzip yolov5.zip folder to project folder
 
 ## Run License Plate Recognition
 
@@ -33,11 +31,6 @@ This repository provides you with a detailed guide on how to training and build 
   
   # run LP_recognition.ipynb if you want to know how model work in each step
 ```
-
-## Result
-![Demo 1](result/image.jpg)
-
-![Vid](result/video_1.gif)
 
 ## Vietnamese Plate Dataset
 
