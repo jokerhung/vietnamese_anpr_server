@@ -14,7 +14,7 @@ This repository provides you with a detailed guide on how to training and build 
 
 - **Pretrained model** provided in ./model folder in this repo 
 
-- unzip yolov5.zip folder to project folder
+- unzip yolov5.zip to project folder
 
 ## Run License Plate Recognition
 
