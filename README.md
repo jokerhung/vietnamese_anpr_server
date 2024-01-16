@@ -27,10 +27,7 @@ This repository provides you with a detailed guide on how to training and build 
   
   # Send http request to recognize plate in image
   # example
-  http://localhost:8000/reg?file=D:\VETC\FE\Data\Plate\L005\T003_L005_20240104_084925274_Plate.jpg
-  
-  # run LP_recognition.ipynb if you want to know how model work in each step
-```
+  http://localhost:8000/reg?file=D:\Data\Plate\L005\T003_L005_20240104_084925274_Plate.jpg
 
 ## Vietnamese Plate Dataset
 
