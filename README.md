@@ -22,7 +22,7 @@ This repository provides you with a detailed guide on how to training and build 
   # run inference on webcam (15-20fps if there is 1 license plate in scene)
   python webcam.py 
 
-  # run web api
+  # run web server
   python lp_image.py
   
   # Send http request to recognize plate in image
