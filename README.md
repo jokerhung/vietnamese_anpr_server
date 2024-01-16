@@ -5,10 +5,10 @@ This repository provides you with a detailed guide on how to training and build 
 ## Installation
 
 ```bash
-  git clone https://github.com/Marsmallotr/License-Plate-Recognition.git
-  cd License-Plate-Recognition
+  git clone https://github.com/jokerhung/vietnamese_anpr_server.git
+  cd vietnamese_anpr_server
 
-  # install dependencies using pip 
+  # install dependencies using pip
   pip install -r ./packages.txt
 ```
 
